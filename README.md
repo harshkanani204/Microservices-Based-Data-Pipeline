@@ -13,7 +13,7 @@
 
 - After everything is set up use `kubectl get all` to see all the things that are running on your kubernetes cluster.
 - It should look like this:
-![](./other/Screenshot%20from%202023-08-02%2015-46-41.png)
+![a](./other/Screenshot%20from%202023-08-02%2015-46-41.png)
 - After Kafka and Spark are successfully installed you're now good to go.
 
 ## Get started:
